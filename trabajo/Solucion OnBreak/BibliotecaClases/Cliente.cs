@@ -18,7 +18,7 @@ namespace BibliotecaClases
 
         public Cliente()
         {
-            sdghfksd
+           
         }
     }
 }
