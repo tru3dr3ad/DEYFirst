@@ -1,0 +1,9 @@
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClases.dll
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClases.pdb
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojAssemblyReference.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csproj.CopyComplete
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb

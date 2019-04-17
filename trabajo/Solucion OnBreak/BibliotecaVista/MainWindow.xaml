@@ -1,0 +1,41 @@
+﻿<Controls:MetroWindow
+    xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls" x:Class="BibliotecaVista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BibliotecaVista"
+        mc:Ignorable="d"
+    Icon="Imagenes/white_logo_color_background.jpg"
+        Title="On Break Eventos Empresariales" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Grid>
+
+
+        <Controls:Tile Margin="78,64,0,0" Width="158" Height="143" Title="Administrar clientes" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF1190CB" Foreground="White" BorderBrush="#FF1190CB" Click="Tile_Click"  >
+
+            <Image Source="imagenes/adm cliente.png" Height="119" Width="147" RenderTransformOrigin="0.505,0.459" OpacityMask="#FF1190CB"></Image>
+
+        </Controls:Tile>
+        <Controls:Tile Margin="418,64,0,0" Width="157" Height="143" Title="Administrar contratos" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF1190CB" Click="Tile_Click_1" >
+
+            <Image Source="imagenes/listado contrato.png" Height="120" Width="130" RenderTransformOrigin="0.505,0.459"></Image>
+
+        </Controls:Tile>
+        <Controls:Tile Margin="79,256,0,0" Width="157" Height="142" Title="Listar clientes" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF1190CB" Click="Tile_Click_2" >
+
+            <Image Source="imagenes/Listado clientes.png" Height="115" Width="150" RenderTransformOrigin="0.505,0.459"></Image>
+
+        </Controls:Tile>
+        <Controls:Tile Margin="418,255,0,0" Width="157" Height="143" Title="Listado contratos" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF1190CB" Click="Tile_Click_3" >
+
+            <Image Source="imagenes/Administrar contrato.png" Height="118" Width="126" RenderTransformOrigin="0.505,0.459"></Image>
+
+        </Controls:Tile>
+
+
+
+    </Grid>
+    
+    
+</Controls:MetroWindow>

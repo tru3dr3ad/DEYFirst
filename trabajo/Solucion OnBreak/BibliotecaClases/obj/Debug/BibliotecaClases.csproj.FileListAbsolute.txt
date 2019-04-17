@@ -1,0 +1,11 @@
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

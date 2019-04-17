@@ -1,0 +1,114 @@
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.exe.config
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.exe
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.pdb
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaClases.dll
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaControlador.dll
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaClases.pdb
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaControlador.pdb
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csprojAssemblyReference.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\ActualizarCli.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionCliente.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionContrato.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\CalcularValor.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\CrearContrato.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoCliente.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoContrato.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\MainWindow.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\App.g.cs
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista_MarkupCompile.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista_MarkupCompile.lref
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\ActualizarCli.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionCliente.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionContrato.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\CalcularValor.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\CrearContrato.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoCliente.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoContrato.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\MainWindow.baml
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.g.resources
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.Properties.Resources.resources
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csproj.GenerateResource.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csproj.CoreCompileInputs.cache
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csproj.CopyComplete
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.exe
+C:\Users\Unitys\source\repos\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.pdb
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.exe.config
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.exe
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.pdb
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaClases.dll
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaControlador.dll
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaClases.pdb
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaControlador.pdb
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csprojAssemblyReference.cache
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ActualizarCli.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionCliente.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionContrato.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CalcularValor.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CrearContrato.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoCliente.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoContrato.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\MainWindow.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\App.g.cs
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista_MarkupCompile.cache
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista_MarkupCompile.lref
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ActualizarCli.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionCliente.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionContrato.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CalcularValor.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CrearContrato.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoCliente.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoContrato.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\MainWindow.baml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.g.resources
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.Properties.Resources.resources
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csproj.GenerateResource.cache
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csproj.CoreCompileInputs.cache
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csproj.CopyComplete
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.exe
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.pdb
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\ControlzEx.dll
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\MahApps.Metro.dll
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\ControlzEx.pdb
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\MahApps.Metro.pdb
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\MahApps.Metro.xml
+C:\Users\panconqueso\Desktop\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\App.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.exe.config
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.exe
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.exe
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaVista.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaClases.dll
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaControlador.dll
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\ControlzEx.dll
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\MahApps.Metro.dll
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaClases.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\BibliotecaControlador.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\ControlzEx.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\MahApps.Metro.pdb
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\bin\Debug\MahApps.Metro.xml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csprojResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ActualizarCli.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionCliente.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionContrato.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CalcularValor.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CrearContrato.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoCliente.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoContrato.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\MainWindow.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\App.g.cs
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista_MarkupCompile.cache
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista_MarkupCompile.lref
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\App.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ActualizarCli.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionCliente.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\AdministracionContrato.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CalcularValor.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\CrearContrato.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoCliente.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\ListadoContrato.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\MainWindow.baml
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.g.resources
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.Properties.Resources.resources
+C:\Users\Duoc\Desktop\Herramientas\front end\trabajo\Solucion OnBreak\BibliotecaVista\obj\Debug\BibliotecaVista.csproj.GenerateResource.Cache
